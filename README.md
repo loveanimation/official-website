@@ -1,4 +1,5 @@
 # -
 原生js
 使用原生js配合一些动画库所写的一个公司响应式网站，适用于PC端
-演示地址 :  http://xuxiu.gitee.io/keji
+演示地址 :  http://xuxiu.gitee.io/keji 
+首页轮播中的图片未正常显示可下载到本地正常显示
